@@ -9,7 +9,7 @@ Following the article, two fully connected feed-forward neural networks have bee
 The only thing missing here is the MNIST Dataset. The problem here is that while doing the commit by command line github doesn't throw a tantrum but
 when uploading files directly from the browser (as this repo has been created) it limits the file dimension to 25MB.
 
-So you just need to obtain the dataset on [MNIST](http://yann.lecun.com/exdb/mnist/).
+So you just need to obtain the dataset from [MNIST](http://yann.lecun.com/exdb/mnist/).
 Once you downloaded the files, put them into a folder called "dataset_mnist" in order to make the code work with it.
 
 ## Usage
