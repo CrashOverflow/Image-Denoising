@@ -9,9 +9,9 @@ Following the article, two fully connected feed-forward neural networks have bee
 In order to start the denoising process, it is only required to execute the main.
 
 ## Contributing
-Marco Urbano, [marcourbano.me](https://marcourbano.me).
-Luigi Urbano, [0xUrbz](https://github.com/0xUrbz).
-Ciro Brandi.
+Marco Urbano, [marcourbano.me](https://marcourbano.me).  
+Luigi Urbano, [0xUrbz](https://github.com/0xUrbz).  
+Ciro Brandi.  
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
